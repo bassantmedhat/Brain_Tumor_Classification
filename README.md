@@ -1,14 +1,33 @@
-# Brain_Tumor_Segmentation
+# Brain Tumor Segmentation and Classification using Deep Learning
 ## Table of contents:
 
-- [Introduction](#building-brain-tumor-classification-model-based-on-efficientnetb5)
-- [Images Samples](#samples-from-image-classes)
-- [Lables Distribution](#labels-distribution)
-- [Accuracy and Loss curves](#plot-accuracy-and-loss-curves)
-- [Confusion Matrix](#plot-confusion-matrix)
+- [Introduction](#dataset)
+- [Data Pre-Processing](#data-pre-processing)
+- [Segmentation](#segmentation-phase)
+- [Classification Model](#classification-model)
+- [Plot Training and Validation Loss](#plot-training-and-validation-loss)
+- [Results](#results)
 
 
-## Building Brain tumor classification model based on EfficientNetB5
+## Dataset
+- The data set consists of 14 tumor classes.
+- for each class :
+  a) T1
+  b) T1C+ (T1-weighted)
+  c) T2
+  
+
+## Data Pre-Processing
+
+
+
+
+##Segmentation Phase
+
+
+
+## Classification Model
+### Building Brain tumor classification model based on EfficientNetB5
 - Data set consists of 29 classes and 4479 images 
 - Why EfficientNet not ResNet ?
 
@@ -19,10 +38,7 @@
   
   ![Screenshot (365)](https://user-images.githubusercontent.com/85830264/230723564-77bd23f4-2fe8-4fdd-89f1-e538c7a563d1.png)
 
-  
-
-
-## Samples from image classes
+### Samples from image classes
 - Astrocitoma T1
 
 ![Screenshot (360)](https://user-images.githubusercontent.com/85830264/230207529-0137a3e4-544a-452e-9d0c-d9d692475859.png)
@@ -49,9 +65,6 @@
 ![Screenshot (363)](https://user-images.githubusercontent.com/85830264/230207787-c451c189-f672-479b-804c-5133cf94bfb9.png)
 
 
-
-
-
 ## Labels distribution
 ![Screenshot (366)](https://user-images.githubusercontent.com/85830264/230722613-51631f6a-f372-4f7f-88a3-dc9348226dcd.png)
 
@@ -59,8 +72,9 @@
 ![Screenshot (367)](https://user-images.githubusercontent.com/85830264/230722803-35501f93-8ce3-49b0-891e-0d1eb4acd73d.png)
 
 
-## Plot Accuracy and loss curves
+
+## Plot Training and Validation Loss
 
 
-## Plot Confusion Matrix
+## Results
 
