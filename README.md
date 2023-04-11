@@ -2,7 +2,6 @@
 ## Table of contents:
 
 - [Introduction](#dataset)
-- [Data Pre-Processing](#data-pre-processing)
 - [Segmentation](#segmentation-phase)
 - [Classification Model](#classification-model)
 - [Plot Training and Validation Loss](#plot-training-and-validation-loss)
@@ -16,10 +15,6 @@
   b) T1C+ (T1-weighted)
   c) T2
   
-
-## Data Pre-Processing
-
-
 
 ## Segmentation Phase
 #### -- in progress --
