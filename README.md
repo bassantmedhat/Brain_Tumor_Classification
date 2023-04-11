@@ -1,4 +1,4 @@
-# Brain Tumor Segmentation and Classification using Deep Learning
+# Brain Tumor Classification using Deep Learning
 ## Table of contents:
 
 - [Introduction](#dataset)
@@ -21,8 +21,7 @@
 
 
 
-
-##Segmentation Phase
+## Segmentation Phase
 
 
 
