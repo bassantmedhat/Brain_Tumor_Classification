@@ -22,8 +22,7 @@
 
 
 ## Segmentation Phase
-
-
+-- in progress --
 
 ## Classification Model
 ### Building Brain tumor classification model based on EfficientNetB5
