@@ -2,19 +2,28 @@
 ## Table of contents:
 
 - [Introduction](#dataset)
+- [Technologies](#technologies)
 - [Segmentation](#segmentation-phase)
 - [Classification Model](#classification-model)
 - [Plot Training and Validation Loss](#plot-training-and-validation-loss)
-- [Results](#results)
+- [Model-Evaluation](#model-evaluation)
 
-
-## Dataset
-- The data set consists of 14 tumor classes.
+## Dataset 
+- The data set consists of 14 tumor classes and 4478 MRI images. 
+- 'Astrocitoma' , 'Carcinoma', 'Ependimoma', 'Ganglioglioma', 'Germinoma', 'Glioblastoma', 'Granuloma', 'Meduloblastoma', 'Meningioma', 'Neurocitoma', 'Oligodendroglioma, 'Papiloma', 'Schwannoma', 'Tuberculoma'.
 - for each class :
   a) T1
   b) T1C+ (T1-weighted)
   c) T2
   
+## Technologies
+- NumPy
+- Matplotlib
+- Keras
+- TensorFlow
+- sklearn
+- seaborn
+- pandas
 
 ## Segmentation Phase
 #### -- in progress --
@@ -67,7 +76,7 @@
 
 
 ## Plot Training and Validation Loss
+#### -- in progress --
 
-
-## Results
-
+## Model Evaluation
+#### -- in progress --
