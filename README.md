@@ -76,7 +76,9 @@
 
 
 ## Plot Training and Validation Loss
-#### -- in progress --
+![output](https://user-images.githubusercontent.com/85830264/231580173-62dbf185-c4c1-4a94-ae16-403b8e9983b2.png)
+
 
 ## Model Evaluation
-#### -- in progress --
+![output](https://user-images.githubusercontent.com/85830264/231580407-a7cc3f85-347e-425b-a302-c28dd4589c9a.png)
+
